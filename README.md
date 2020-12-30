@@ -17,7 +17,7 @@ you can find out how many people access dangerous sites in a day with this scrip
 -------------------------
 
 ----API Umbrella Key----
-https://docs.umbrella.com/umbrella-api/docs/management-api-documentation
+<br>https://docs.umbrella.com/umbrella-api/docs/management-api-documentation<br>
 1. Navigate to Admin > API Keys and click Create.
 2. Create reporting API
 3. Encoded the API using base64 > Save the result
@@ -77,6 +77,10 @@ function get_dns_top for query the blocked requests.
 function sendtoteams for sending the data to msteam.
 
 you can using crontab in linux for run this script for every 1 hour or you can customize the hour in variable 'hours' (default=1), if you change to '2', you can get the results from 2 hours ago.
+
+## Results
+<br>
+<img src="results.png"><br>
 
 ## How to test the software
 

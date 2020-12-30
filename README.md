@@ -17,6 +17,7 @@ you can find out how many people access dangerous sites in a day with this scrip
 -------------------------
 
 ----API Umbrella Key----
+https://docs.umbrella.com/umbrella-api/docs/management-api-documentation
 1. Navigate to Admin > API Keys and click Create.
 2. Create reporting API
 3. Encoded the API using base64 > Save the result

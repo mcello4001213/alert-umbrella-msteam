@@ -90,7 +90,7 @@ If the repo is instrumented with a continuous testing framework, that is even be
 
 
 ## Known issues
-If you have questions, concerns, bug reports, etc., please create an issue against this [GitHub Repo](https://github.com/veprimk/csv2nornir_inventory/issues) and please make sure to include your code and the error log/traceback.
+If you have questions, concerns, bug reports, etc., please create an issue against this [GitHub Repo](https://github.com/mcello4001213/alert-umbrella-msteam/issues) and please make sure to include your code and the error log/traceback.
 
 
 ## Getting involved
